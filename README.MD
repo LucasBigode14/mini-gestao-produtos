@@ -6,6 +6,7 @@ Sistema simples de gestão de produtos, fornecedores e cesta de compras, desenvo
 
 A aplicação permite:
 
+
 - cadastrar e autenticar usuários;
 - gerenciar fornecedores;
 - cadastrar, listar e excluir produtos;
