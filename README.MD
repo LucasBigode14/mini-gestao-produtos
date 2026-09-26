@@ -24,6 +24,40 @@ A aplicação permite:
 - Resumo de itens e valor total da cesta.
 - Dashboard com indicadores de quantidade de produtos, fornecedores e itens na cesta.
 
+## Telas do Figma para direcionamento visual
+
+Esta seção apresenta os protótipos de alta fidelidade que serviram como base para o desenvolvimento do projeto. O objetivo é garantir a fidelidade do layout, a consistência dos componentes e uma experiência de usuário (UX/UI) alinhada com a proposta original, servindo como guia de referência para a implementação do código.
+
+<details>
+  <summary>Clique aqui para visualizar as telas do projeto</summary>
+  
+### Login
+  ![Tela de Login](./figma/tela-login.png)
+  
+### Cadastro
+  ![Tela de Cadastro](./figma/tela-cadastro.png)
+
+### Inicial
+  ![Tela de Início](./figma/tela-inicial.png)
+
+### Aba Lateral, para acesso as Páginas
+  ![Aba Lateral](./figma/aba-lateral.png)
+
+### Produtos
+  ![Tela dos Produtos](./figma/tela-produtos.png)
+
+### Fornecedores
+  ![Tela de Fornecedores](./figma/tela-fornecedores.png)
+  
+### Seleção de Itens 
+  ![Tela de Cadastro](./figma/tela-itens-selecionados.png)
+
+### Cesta de Produtos
+  ![Tela da Cesta](./figma/tela-cesta-de-compras.png)
+</details>
+
+[Link do projeto no Figma](<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/Cv65JsqTS68QtUSb0BXQQt/Sem-t%C3%ADtulo?node-id=0-1&embed-host=share" allowfullscreen></iframe>)
+
 ## Diagrama de entidade e relacionamento
 
 ![DER](./images/DER.png)
